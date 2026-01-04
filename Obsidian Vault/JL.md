@@ -10,3 +10,4 @@ My 2026 Goals
 [[SKIN CARE]]
 [[BODY CARE]]
 [[GYM]]
+[[SCHOOL]]
