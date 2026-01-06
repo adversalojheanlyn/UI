@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCHOOL.md",
+                "file": "GYM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCHOOL"
+              "title": "GYM"
             }
           }
         ]
@@ -202,15 +202,15 @@
   "active": "ceaf2c25db48a082",
   "lastOpenFiles": [
     "JL.md",
-    "SCHOOL.md",
     "HOPE & PURPOSE.md",
+    "WORK.md",
+    "SCHOOL.md",
     "EMOTIONAL & HEALING.md",
     "FAMILY & RELATIONSHIP.md",
     "GYM.md",
     "SKIN CARE.md",
     "SPIRITUAL.md",
     "TRAVEL.md",
-    "WORK.md",
     "PERSONAL GROWTH.md",
     "BODY CARE.md"
   ]
