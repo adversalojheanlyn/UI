@@ -11,3 +11,4 @@ My 2026 Goals
 [[BODY CARE]]
 [[GYM]]
 [[SCHOOL]]
+[[BUSINESS]]
