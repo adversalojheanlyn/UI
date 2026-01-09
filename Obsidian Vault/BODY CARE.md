@@ -5,3 +5,7 @@
 - Choose nourishment over punishment
     
 - Appreciate my body for carrying me through life
+
+I started my skin and body care 
+-lotion
+-sunscreen, toner, night cream, lip care, moisturizer
