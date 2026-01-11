@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BUSINESS.md",
+                "file": "GYM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BUSINESS"
+              "title": "GYM"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GYM.md",
+                "file": "WORK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GYM"
+              "title": "WORK"
             }
           }
         ]
@@ -203,20 +203,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "ceaf2c25db48a082",
+  "active": "f0b9bc37ea275e1c",
   "lastOpenFiles": [
-    "FAMILY & RELATIONSHIP.md",
+    "TRAVEL.md",
+    "SPIRITUAL.md",
+    "PERSONAL GROWTH.md",
     "HOPE & PURPOSE.md",
+    "GYM.md",
+    "BUSINESS.md",
+    "FAMILY & RELATIONSHIP.md",
     "JL.md",
     "BODY CARE.md",
     "WORK.md",
     "SKIN CARE.md",
     "SCHOOL.md",
-    "BUSINESS.md",
-    "GYM.md",
-    "EMOTIONAL & HEALING.md",
-    "TRAVEL.md",
-    "SPIRITUAL.md",
-    "PERSONAL GROWTH.md"
+    "EMOTIONAL & HEALING.md"
   ]
 }
