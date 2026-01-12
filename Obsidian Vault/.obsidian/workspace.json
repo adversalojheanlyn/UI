@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GYM.md",
+                "file": "EMOTIONAL & HEALING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GYM"
+              "title": "EMOTIONAL & HEALING"
             }
           }
         ]
@@ -203,20 +203,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "f0b9bc37ea275e1c",
+  "active": "ceaf2c25db48a082",
   "lastOpenFiles": [
-    "TRAVEL.md",
-    "SPIRITUAL.md",
-    "PERSONAL GROWTH.md",
-    "HOPE & PURPOSE.md",
-    "GYM.md",
-    "BUSINESS.md",
     "FAMILY & RELATIONSHIP.md",
-    "JL.md",
+    "EMOTIONAL & HEALING.md",
+    "BUSINESS.md",
     "BODY CARE.md",
-    "WORK.md",
+    "TRAVEL.md",
     "SKIN CARE.md",
-    "SCHOOL.md",
-    "EMOTIONAL & HEALING.md"
+    "WORK.md",
+    "PERSONAL GROWTH.md",
+    "GYM.md",
+    "SPIRITUAL.md",
+    "HOPE & PURPOSE.md",
+    "JL.md",
+    "SCHOOL.md"
   ]
 }
