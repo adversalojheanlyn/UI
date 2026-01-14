@@ -6,3 +6,5 @@
 01/10 - skip
 01/11- skip
 01/12- skip
+==01/13==-gym lower
+01/14-skip

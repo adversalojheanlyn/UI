@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EMOTIONAL & HEALING.md",
+                "file": "BODY CARE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EMOTIONAL & HEALING"
+              "title": "BODY CARE"
             }
           }
         ]
@@ -205,18 +205,18 @@
   },
   "active": "ceaf2c25db48a082",
   "lastOpenFiles": [
-    "FAMILY & RELATIONSHIP.md",
-    "EMOTIONAL & HEALING.md",
     "BUSINESS.md",
+    "FAMILY & RELATIONSHIP.md",
+    "GYM.md",
+    "JL.md",
+    "HOPE & PURPOSE.md",
+    "SKIN CARE.md",
+    "EMOTIONAL & HEALING.md",
     "BODY CARE.md",
     "TRAVEL.md",
-    "SKIN CARE.md",
     "WORK.md",
     "PERSONAL GROWTH.md",
-    "GYM.md",
     "SPIRITUAL.md",
-    "HOPE & PURPOSE.md",
-    "JL.md",
     "SCHOOL.md"
   ]
 }
