@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIRITUAL.md",
+                "file": "PERSONAL GROWTH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPIRITUAL"
+              "title": "PERSONAL GROWTH"
             }
           }
         ],
@@ -220,6 +220,7 @@
   },
   "active": "4030bd1c42bb9753",
   "lastOpenFiles": [
+    "SPIRITUAL.md",
     "TRAVEL.md",
     "BODY CARE.md",
     "FAMILY & RELATIONSHIP.md",
@@ -228,7 +229,6 @@
     "WORK.md",
     "SKIN CARE.md",
     "JL.md",
-    "SPIRITUAL.md",
     "BUSINESS.md",
     "HOPE & PURPOSE.md",
     "PERSONAL GROWTH.md",

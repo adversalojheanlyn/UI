@@ -5,3 +5,5 @@
 - Grow in self-worth and confidence
     
 - Accept that growth is not linear
+
+-I will make a schedule today
