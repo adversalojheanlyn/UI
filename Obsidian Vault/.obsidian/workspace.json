@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GYM.md",
+                "file": "SCHOOL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GYM"
+              "title": "SCHOOL"
             }
           }
         ],
@@ -235,7 +235,9 @@
   "active": "107c4dc0ce92235b",
   "lastOpenFiles": [
     "SKIN CARE.md",
+    "SPIRITUAL.md",
     "SCHOOL.md",
+    "GYM.md",
     "TRAVEL.md",
     "HOPE & PURPOSE.md",
     "JL.md",
@@ -243,8 +245,6 @@
     "EMOTIONAL & HEALING.md",
     "FAMILY & RELATIONSHIP.md",
     "BODY CARE.md",
-    "SPIRITUAL.md",
-    "GYM.md",
     "WORK.md",
     "BUSINESS.md"
   ]
