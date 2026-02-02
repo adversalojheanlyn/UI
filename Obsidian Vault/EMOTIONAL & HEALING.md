@@ -9,3 +9,4 @@
 01/19- I finally started journaling
 01/22- I played minecraft with zen
 01/23 - minecraft and show up
+02/02- coping 
