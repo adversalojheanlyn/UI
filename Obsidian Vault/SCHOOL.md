@@ -5,3 +5,4 @@
 -thesis on going
 -still managing to go to school
 -Completed whole 3rd year 1st sem
+-Still wprking out on thesis
