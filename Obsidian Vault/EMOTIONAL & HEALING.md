@@ -10,3 +10,4 @@
 01/22- I played minecraft with zen
 01/23 - minecraft and show up
 02/02- coping 
+02/10- i miss zhaen so much
