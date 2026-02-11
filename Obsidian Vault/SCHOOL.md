@@ -7,3 +7,4 @@
 -Completed whole 3rd year 1st sem
 -Still wprking out on thesis
 -busy on thesis
+-one week student fest
