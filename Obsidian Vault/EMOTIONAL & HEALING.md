@@ -11,3 +11,4 @@
 01/23 - minecraft and show up
 02/02- coping 
 02/10- i miss zhaen so much
+02/13-played mc
