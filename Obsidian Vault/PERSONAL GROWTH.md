@@ -7,3 +7,4 @@
 - Accept that growth is not linear
 
 -I will make a schedule today
+-Walking, jogging just started
