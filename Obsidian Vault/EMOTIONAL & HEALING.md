@@ -12,3 +12,4 @@
 02/02- coping 
 02/10- i miss zhaen so much
 02/13-played mc
+02/16- I MISS ZHAEN SO MUCH, EVERYDAY. EVERY HOUR.
