@@ -1,4 +1,6 @@
-- Continue healing at my own pace 
+
+   
+   - Continue healing at my own pace 
     
 - Allow myself to grieve without guilt
     
@@ -14,3 +16,4 @@
 02/13-played mc
 02/16- I MISS ZHAEN SO MUCH, EVERYDAY. EVERY HOUR.
 02/22- NOTHING CHANGE, LOST
+02/23- dami ganap
