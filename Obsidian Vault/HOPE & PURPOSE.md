@@ -12,3 +12,4 @@
 10/03- stressful
 11/03- THESIS TITLE DEFENSE TOM
 30/03- so many things happen
+24/06- 7 months without my zhaen

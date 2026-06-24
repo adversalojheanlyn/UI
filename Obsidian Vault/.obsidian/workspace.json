@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "HOPE & PURPOSE"
             }
+          },
+          {
+            "id": "559c91c127456e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOPE & PURPOSE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOPE & PURPOSE"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "88885c96c2bc0a0c",
@@ -260,17 +274,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd61a998f5088ab0",
+  "active": "559c91c127456e0d",
   "lastOpenFiles": [
-    "EMOTIONAL & HEALING.md",
-    "FAMILY & RELATIONSHIP.md",
-    "BODY CARE.md",
-    "BUSINESS.md",
-    "GYM.md",
-    "HOPE & PURPOSE.md",
-    "SCHOOL.md",
     "JL.md",
     "PERSONAL GROWTH.md",
+    "HOPE & PURPOSE.md",
+    "FAMILY & RELATIONSHIP.md",
+    "EMOTIONAL & HEALING.md",
+    "BUSINESS.md",
+    "BODY CARE.md",
+    "GYM.md",
+    "SCHOOL.md",
     "TRAVEL.md",
     "SKIN CARE.md",
     "WORK.md",
